@@ -1,5 +1,4 @@
-![gif1](https://user-images.githubusercontent.com/58392261/113102229-60c18680-921b-11eb-8a00-a2fbeb1859bb.gif)
-Hello there ! 👋
+Hello there ! 👋![gif2](https://user-images.githubusercontent.com/58392261/113102575-d88fb100-921b-11eb-9f23-36e12dc9c277.gif)
 - 🔭 I’m currently working on Python Intermediate Coding.
 - 🌱 I’m currently learning Artificial Intellegence and Cloud Computing.
 <!-- - 👯 I’m looking to collaborate on Machine Learning Projects.-->

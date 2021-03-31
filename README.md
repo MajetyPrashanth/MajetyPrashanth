@@ -11,3 +11,7 @@ Hello there 👋
  - [Twitter - @PrashanthMajety](https://twitter.com/PrashanthMajety) 
 - 😄 Pronouns: He / His
 - ⚡ Fun fact: I can sing and draw potraits !
+- Top Languages : 
+-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MajetyPrashanth)](https://github.com/MajetyPrashanth/github-readme-stats)
+-  My Github Stats :
+-  ![Prashnath's github stats](https://github-readme-stats.vercel.app/api?username=MajetyPrashanth)

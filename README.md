@@ -1,3 +1,4 @@
+![gif1](https://user-images.githubusercontent.com/58392261/113102229-60c18680-921b-11eb-8a00-a2fbeb1859bb.gif)
 Hello there ! 👋
 - 🔭 I’m currently working on Python Intermediate Coding.
 - 🌱 I’m currently learning Artificial Intellegence and Cloud Computing.
@@ -12,4 +13,3 @@ Hello there ! 👋
 -  ![Prashnath's github stats](https://github-readme-stats.vercel.app/api?username=MajetyPrashanth)
 - 🤔 I’m looking for help with guidance on courses.
 - 💬 Ask me about Algorithms and Programming.
-<img align = "right" src=https://tenor.com/view/codemodeon-code-mode-on-vr-ar-gif-15394189 alt="prashanth">

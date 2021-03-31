@@ -6,9 +6,7 @@ Hello there ! 👋![gif2](https://user-images.githubusercontent.com/58392261/113
 <!-- - 😄 Pronouns: He / His -->
 <!-- - ⚡ Fun fact: I can sing and draw potraits ! -->
 
--  Top Languages : 
--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MajetyPrashanth)](https://github.com/MajetyPrashanth/github-readme-stats)
--  My Github Stats :
--  ![Prashanth's github stats](https://github-readme-stats.vercel.app/api?username=MajetyPrashanth)
+-  Top Languages : [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MajetyPrashanth)](https://github.com/MajetyPrashanth/github-readme-stats)
+-  My Github Stats :![Prashanth's github stats](https://github-readme-stats.vercel.app/api?username=MajetyPrashanth)
 - 🤔 I’m looking for help with guidance on courses.
 - 💬 Ask me about Algorithms and Programming.

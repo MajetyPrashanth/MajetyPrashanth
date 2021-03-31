@@ -12,4 +12,4 @@ Hello there ! 👋
 -  ![Prashnath's github stats](https://github-readme-stats.vercel.app/api?username=MajetyPrashanth)
 - 🤔 I’m looking for help with guidance on courses.
 - 💬 Ask me about Algorithms and Programming.
-<div class="tenor-gif-embed" data-postid="15394189" data-share-method="host" data-width="100%" data-aspect-ratio="5.472527472527473"><a href="https://tenor.com/view/codemodeon-code-mode-on-vr-ar-gif-15394189">Codemodeon Vr GIF</a> from <a href="https://tenor.com/search/codemodeon-gifs">Codemodeon GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+[<p>Hello!<p>][Hi]

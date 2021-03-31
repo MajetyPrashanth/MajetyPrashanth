@@ -1,7 +1,7 @@
-Hello there 👋
+Hello there ! 👋
 - 🔭 I’m currently working on Python Intermediate Coding.
 - 🌱 I’m currently learning Artificial Intellegence and Cloud Computing.
-- 👯 I’m looking to collaborate on Machine Learning Projects.
+<!-- - 👯 I’m looking to collaborate on Machine Learning Projects.-->
 - 🤔 I’m looking for help with guidance on courses.
 - 💬 Ask me about Algorithms and Programming.
 - 📫 How to reach me: 
@@ -9,8 +9,8 @@ Hello there 👋
  - [LinkedIn - Prashanth Majety](https://www.linkedin.com/in/prashanth-majety-7b474318b/) 
 
  - [Twitter - @PrashanthMajety](https://twitter.com/PrashanthMajety) 
-- 😄 Pronouns: He / His
-- ⚡ Fun fact: I can sing and draw potraits !
+<!-- - 😄 Pronouns: He / His -->
+<!-- - ⚡ Fun fact: I can sing and draw potraits ! -->
 - Top Languages : 
 -  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MajetyPrashanth)](https://github.com/MajetyPrashanth/github-readme-stats)
 -  My Github Stats :

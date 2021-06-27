@@ -1,4 +1,5 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=MajetyPrashanth.MajetyPrashanth)
+![](https://visitor-badge.laobi.icu/badge?page_id=MajetyPrashanth.MajetyPrashanth) 
+<br>
 Hello there ! 👋![gif2](https://user-images.githubusercontent.com/58392261/113102575-d88fb100-921b-11eb-9f23-36e12dc9c277.gif)
 - 🔭 I’m currently working on Python Intermediate Coding.
 - 🌱 I’m currently learning Artificial Intellegence and Cloud Computing.

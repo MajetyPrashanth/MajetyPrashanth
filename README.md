@@ -4,6 +4,7 @@ Hello there ! 👋![gif2](https://user-images.githubusercontent.com/58392261/113
 - 🔭 I’m currently working on Python Intermediate Coding.
 - 📫 How to reach me:-  [LinkedIn - Prashanth Majety](https://www.linkedin.com/in/prashanth-majety-7b474318b/) | [Twitter - @PrashanthMajety](https://twitter.com/PrashanthMajety) 
 <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MajetyPrashanth&theme=tokyonight)](https://github.com/MajetyPrashanth/github-readme-stats) ![Prashanth's github stats](https://github-readme-stats.vercel.app/api?username=MajetyPrashanth&theme=tokyonight)
 - 🤔 I’m looking for help with guidance on courses.
 - 💬 Ask me about Algorithms and Programming.
